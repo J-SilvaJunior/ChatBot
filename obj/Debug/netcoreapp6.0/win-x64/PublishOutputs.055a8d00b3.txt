@@ -1,2 +1,0 @@
-C:\Users\Junio\Downloads\ChatBot\bin\Debug\netcoreapp6.0\win-x64\publish\main.pdb
-C:\Users\Junio\Downloads\ChatBot\bin\Debug\netcoreapp6.0\win-x64\publish\main.exe
